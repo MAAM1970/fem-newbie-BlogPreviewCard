@@ -59,8 +59,8 @@ main {
 
 figure {
   max-width: 100%;
-  height: auto;
-  aspect-ratio: 4/2.64;
+  height: 20rem
+  /* aspect-ratio: 4/2.64; */
 
   margin-block-end: 2.4rem;
 }
