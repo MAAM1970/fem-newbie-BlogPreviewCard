@@ -101,7 +101,7 @@ figure {
 
 .title {
   color: var(--gray-950);
-  font-size: 2rem;
+  font-size: 2.4rem;
   padding: 0.25rem 1.6rem 0.25rem 0;
 
   margin-block-end: 1.2rem;
@@ -120,6 +120,7 @@ figure {
 .description {
   color: var(--gray-500);
   font-size: 1.4rem;
+  line-height: 1.2;
 
   padding: 0.9rem 0;
 }
